@@ -968,6 +968,7 @@ button:hover{
   align-items: center;
 }
 .mainimagecontainer{
+  margin-top: 50px;
   display: flex;
   align-items: center;
   justify-content: center;
